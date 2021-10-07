@@ -30,7 +30,7 @@ sections:
     subtitle: At a Glance
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: Know how you spend your time
         title_align: left
         content: >
           Track all of your time spent on different customers, projects and
