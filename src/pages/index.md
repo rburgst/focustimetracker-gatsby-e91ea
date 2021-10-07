@@ -71,8 +71,8 @@ sections:
       - title: Powerful reports
         title_align: left
         content: >
-          Focus TimeTracker allows you to create work reports using a flexible
-          query builder.
+          Create work reports using a flexible query builder and export these
+          reports to excel, CSV.
         content_align: left
         actions:
           - label: Learn More
