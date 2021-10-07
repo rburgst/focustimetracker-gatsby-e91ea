@@ -17,7 +17,7 @@ sections:
       - label: App Store
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: images/FocusTT-Overview.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
