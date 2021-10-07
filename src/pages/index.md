@@ -73,6 +73,9 @@ sections:
         content: >
           Create work reports using a flexible query builder and export these
           reports to excel, CSV.
+
+
+          This makes invoicing a breeze.
         content_align: left
         actions:
           - label: Learn More
