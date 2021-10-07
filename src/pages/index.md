@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Effortlessly track your work
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: 'While you''re doing it, upload your worklogs to Jira'
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
