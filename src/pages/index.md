@@ -26,7 +26,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great About Focus Time-Tracker?
+    title: What's Great About Focus TimeTracker?
     subtitle: At a Glance
     align: center
     grid_items:
