@@ -159,14 +159,6 @@ sections:
       - label: App Store
         url: /pricing
         style: primary
-      - label: Google Play
-        url: /pricing
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        type: action
     actions_position: bottom
     align: center
     padding_top: large
