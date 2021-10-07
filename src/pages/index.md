@@ -32,9 +32,9 @@ sections:
     grid_items:
       - title: Right When You Need It
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Track all of your time spent on different customers, projects and
+          tasks.
         content_align: left
         actions:
           - label: Learn More
