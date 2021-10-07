@@ -70,9 +70,9 @@ sections:
         image_position: top
       - title: Powerful reports
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Focus TimeTracker allows you to create work reports using a flexible
+          query builder.
         content_align: left
         actions:
           - label: Learn More
